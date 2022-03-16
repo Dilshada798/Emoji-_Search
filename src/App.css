@@ -1,0 +1,39 @@
+body {
+  background-color: darkgray;
+  font-family: 'Courier New', Courier, monospace; 
+}
+.head{
+  font-size: 50px;
+  color: navy;
+  text-align: center;
+}
+
+.search_bar{
+  width: 70%;
+  padding-top: 25px;
+  font-size: 25px;
+  margin-left: 248px;
+  margin-bottom: 25px;
+  border-radius: 40px;
+  color:purple;
+  text-align:center ;
+}
+.font{
+  font-size: 25px;
+}
+
+.page:hover {
+  background-color:aqua;
+  font-family: monospace;
+  
+}
+
+.page{
+  width: 90%;
+  display: flex;
+  padding: 18px;
+  border: 2px solid;
+  margin: 0px 70px 0px 70px;
+  border-radius: 30px;
+}
+
